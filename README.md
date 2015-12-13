@@ -1,1 +1,1 @@
-# database_practice
+# database-practice
